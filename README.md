@@ -2,6 +2,8 @@
 
 Conversor de moedas com interface gráfica interativa, desenvolvido em Python usando Tkinter
 
+![imagem](./conversor.PNG)
+
 #### Funcionalidades
 
 - Conversão em tempo real entre diferentes moedas
