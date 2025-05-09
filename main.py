@@ -37,7 +37,6 @@ valor_label = Label(text="Digite o valor", font=("Verdana", 8))
 valor_label.pack()
 
 valor_entry = Entry(width=28, justify="center")
-# valor_entry.insert(0, " " * 28)
 valor_entry.pack()
 
 converter_label = Label(text="Converter de", font=("Verdana", 8))
